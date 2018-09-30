@@ -1,4 +1,4 @@
-'use es6'
+'use strict'
 
 const http = require('http')
 
